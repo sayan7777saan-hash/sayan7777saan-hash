@@ -43,6 +43,9 @@ const calendar = payload.data?.user?.contributionsCollection?.contributionCalend
 if (!calendar) throw new Error(`Could not find GitHub user: ${username}`);
 
 const days = calendar.weeks.flatMap(w => w.contributionDays);
+console.log("Total days:", days.length);
+console.log("Days with contributions:", days.filter(d => d.contributionCount > 0).length);
+console.log("Sample contribution:", days.filter(d => d.contributionCount > 0).slice(0, 5));
 const total = calendar.totalContributions;
 let current = 0, longest = 0, run = 0;
 for (let i = 0; i < days.length; i++) {
