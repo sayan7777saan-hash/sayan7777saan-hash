@@ -124,4 +124,7 @@ const svg = `<?xml version="1.0" encoding="UTF-8"?>
 </svg>`;
 await import("node:fs/promises").then(fs => fs.mkdir("assets", { recursive: true }));
 await import("node:fs/promises").then(fs => fs.writeFile("assets/contribution-dashboard.svg", svg));
+console.log("Total days:", days.length);
+console.log("Days with contributions:", days.filter(d => d.contributionCount > 0).length);
+console.log("Sample contribution:", JSON.stringify(days.filter(d => d.contributionCount > 0).slice(0, 5)));
 console.log(`Generated dashboard for ${username}: ${total} contributions`);
