@@ -56,15 +56,15 @@ Hi! I'm **Sayan**, a developer who enjoys turning ideas into working projects an
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=sayan7777saan-hash&show_icons=true&theme=tokyonight&hide_border=true"
-  />
 
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan7777saan-hash&layout=compact&theme=tokyonight&hide_border=true"
-  />
+<div align="center">
+
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=sayan7777saan-hash&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sayan7777saan-hash&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
+
 
 ---
 
@@ -76,19 +76,34 @@ Hi! I'm **Sayan**, a developer who enjoys turning ideas into working projects an
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayan7777saan-hash&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+<h2>🏆 GitHub Achievements</h2>
+
+<p><i>Every contribution tells a story. Every milestone counts.</i></p>
+
+<img
+  src="https://trophy.ryglcloud.net/?username=sayan7777saan-hash&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"
+  width="95%"
+/>
+
+<br/>
+
+<p>✦ BUILDING • LEARNING • IMPROVING ✦</p>
 
 ---
 
 ## 📈 Contribution Activity
+<p><i>Consistency is the key to growth.</i></p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayan7777saan-hash&theme=tokyo-night&hide_border=true" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayan7777saan-hash&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<br/>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan7777saan-hash&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
 
 ---
 
