@@ -48,9 +48,9 @@ Hi! I'm **Sayan**, a developer who enjoys turning ideas into working projects an
 
 | Project | Description |
 |---|---|
-| 🔹 Project 01 | Add your best project and its GitHub link |
-| 🔹 Project 02 | Add another interesting project |
-| 🔹 Project 03 | Showcase your hackathon project |
+| 🔹 Project 01 | coming soon... |
+| 🔹 Project 02 | coming soon... |
+| 🔹 Project 03 | coming soon... |
 
 ---
 
