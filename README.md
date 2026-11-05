@@ -94,7 +94,9 @@ Hi! I'm **Sayan**, a developer who enjoys turning ideas into working projects an
 
 ## 📈 Contribution Activity
 
+<p><i>Consistency is the key to growth.</i></p>
 
+![Contribution Activity](./assets/contribution-dashboard.svg)
 
 ---
 
