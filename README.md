@@ -103,12 +103,12 @@ Hi! I'm **Sayan**, a developer who enjoys turning ideas into working projects an
 
 <div align="center">
 
-<a href="https://github.com/sayan7777saan-hash">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sayan-biswas-8a916529a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sayan7777saan-hash">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/soy_geodude/">
