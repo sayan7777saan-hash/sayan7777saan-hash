@@ -93,17 +93,8 @@ Hi! I'm **Sayan**, a developer who enjoys turning ideas into working projects an
 ---
 
 ## 📈 Contribution Activity
-<p><i>Consistency is the key to growth.</i></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayan7777saan-hash&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-<br/>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan7777saan-hash&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
----
 
 ---
 
